@@ -1,5 +1,5 @@
 # Excel-Data-Analysis-Projects
-### This pprojectost is regarding to a medium data analysis project using excel.
+### This project is regarding to a medium data analysis project using excel.
 🤔Problem Statement: we are given a dataset of IBM Employee Attraction, along with some of reason's why they left the company. we need to analyze the data and improve effective insights.
 
 Data analysis:
