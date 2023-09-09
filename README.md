@@ -1,21 +1,19 @@
 # Excel-Data-Analysis-Projects
 ### This project is regarding to a medium data analysis project using excel.
-🤔Problem Statement: we are given a dataset of IBM Employee Attraction, along with some of reason's why they left the company. we need to analyze the data and improve effective insights.
 
-Data analysis:
+📊 **Problem Statement**: We have an IBM Employee Attraction dataset, which includes reasons for employee departures. Our goal is to analyze the data to extract meaningful insights.
 
-The data was cleaned thoroughly by checking duplicate, null values and errors etc.
-We've created column working years group by dividing the given working years data into four groups: (Btw 1-10),(Btw 11-20),(Btw 21-30),(Btw 31-40).
-After processing and analyzing the data we've built a dashboard that as shown below using pivot tables and pivot charts.
+🔍 **Data Analysis**:
+We meticulously cleaned the data, addressing issues like duplicates, null values, and errors. Additionally, we categorized working years into four groups: (1-10 years), (11-20 years), (21-30 years), and (31-40 years). Using pivot tables and pivot charts, we created a dashboard.
 
-💡Insights: 
+💡 **Insights**:
 
-👉From analyzing the data we've observed that the number of employees who are the company are greater than leave employee.
+👥 **Employee Count**: We found that the number of current employees in the company exceeds the number of employees who left.
 
-👉 Employees who leave the company are more likely to have a bachelor's degree than other employees who have a master's degree.
+🎓 **Education**: Employees who left the company were more likely to hold bachelor's degrees compared to those with master's degrees.
 
-👉 Department that has the most leaving employee is Research and Development and also the department that have the most employee in the company in Research and development.
+🏢 **Departments**: The Research and Development department had the most departing employees. Interestingly, it also had the highest number of employees overall.
 
-👉 Job Role that have the most leaving employees is Sales Executive.
+👔 **Job Roles**: The Sales Executive role had the highest number of employees leaving the company.
 
-These are some of the insights that I've derived from the dataset.
+These insights were derived from our dataset analysis. 📈📋🔍
